@@ -1,0 +1,64 @@
+body {
+    height: 100%;
+    margin: 1%;
+    color: #0aa387;
+    background-color: #6bffaa;
+    border-style: solid;
+    border-color: #075430;
+    border-width: 5px;
+}
+header {
+    background-color: #a8e0c0;
+    margin: 1% 5% 1% 5%;
+    border-style: solid;
+    border-color: #27d921;
+    border-width: 5px;
+    text-align: center;
+}
+h1{
+    font-size: 4vmin;
+}
+h2 {
+    font-size: 3.7vmin;
+    text-align: center;
+}
+h3 {
+    font-size: 3.5vmin;
+    text-align: center;
+    font-style: italic;
+}
+p {
+    font-size: 3.2vmin;
+    text-align: center;
+}
+#article {
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+}
+#image {
+    max-width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: #85ad0a;
+    border-width: 5px;
+}
+#tribute-info {
+    margin: 1% 1% 1% 2%;
+    border-style: solid;
+    border-color: #2b782b;
+    border-width: 5px;
+}
+#song{
+    margin: 1% 1% 1% 2%;
+    border-style: solid;
+    border-color: #99ab4b;
+    border-width: 5px;
+}
+footer{
+    border-style: solid;
+    border-color: #00FFFF;
+    border-width: 5px;
+}
